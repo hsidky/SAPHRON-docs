@@ -155,5 +155,6 @@ developer of [Cassandra](http://cassandra.nd.edu/).
 ## Contributing
 
 Feel free to fork this project on [GitHub](https://github.com/hsidky/SAPHRON). Any pull-requests,
-feature requests or other form of contributions are welcome.
+feature requests or other form of contributions are welcome. We especially encourage users to 
+report bugs or request features; you can guide the development of this project!
 
