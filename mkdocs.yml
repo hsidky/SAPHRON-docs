@@ -1,0 +1,21 @@
+site_name: SAPHRON Documentation
+repo_url: https://github.com/hsidky/SAPHRON
+site_author: Hythem Sidky
+pages:
+- Home: 'index.md'
+- 'Getting Started': 'getting-started.md'
+- Examples:
+    - 'Canonical simulations': 'examples/canonical-simulations.md'
+- User Gude:
+    - 'Simulation' : 'user-guide/simulation.md'
+    - 'Blueprints' : 'user-guide/blueprints.md'
+    - 'Worlds' : 'user-guide/worlds.md'
+    - 'Forcefields' : 'user-guide/forcefields.md'
+    - 'Moves' : 'user-guide/moves.md'
+    - 'Observers' : 'user-guide/observers.md'
+    - 'Density of states' : 'user-guide/density-of-states.md'
+    - 'Histogram' : 'user-guide/histogram.md'
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition:
